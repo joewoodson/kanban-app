@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "kanban",
+    "style": "sass",
+    "postcss": false
+  }
+}
